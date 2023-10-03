@@ -87,9 +87,12 @@
 {
     font-size: 35px;
 }
-#Sevostyanov-Sergey body
+#Sevostyanov-Sergey
 {
     font-family: Comic Sans MS, "Helvetica Neue", Helvetica, sans-serif;
+}
+#Sevostyanov-Sergey .accordion-body{
+    padding: 0px;
 }
 #Sevostyanov-Sergey .links
 {
