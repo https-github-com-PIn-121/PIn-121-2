@@ -11,8 +11,100 @@ color: green;
 /* <!-- Носков Максим END --> */
 
 
-/* <!-- Севостьянов Сергей START --> */
-
+/* <!-- Севостьянов Сергей START --> */ 
+#Sevostyanov-Sergey .header
+{
+    text-align: center;
+    font-size: 21px;
+    background-color: black;
+    padding: 250px 80px;
+    line-height: 30px;
+    color: whitesmoke;
+}
+#Sevostyanov-Sergey h1
+{
+    font-size: 35px;
+}
+#Sevostyanov-Sergey body
+{
+    font-family: Comic Sans MS, "Helvetica Neue", Helvetica, sans-serif;
+}
+#Sevostyanov-Sergey .links
+{
+    margin-right: 30px;
+    font-size: 16px;
+    display: inline-block;
+}
+#Sevostyanov-Sergey .dline
+{
+    line-height: 40px;
+}
+#Sevostyanov-Sergey h2
+{
+    font-size: 21px;
+}
+#Sevostyanov-Sergey .header_nav a
+{
+    text-decoration: none;
+    padding: 0 10px; 
+    color: whitesmoke;
+}
+#Sevostyanov-Sergey .header_nav li:first-child a
+{
+    padding-left: 0;
+}
+#Sevostyanov-Sergey .header_nav a:hover
+{
+    text-decoration: underline;
+    color: lightgray;
+}
+#Sevostyanov-Sergey nav ul
+{
+    list-style: none; 
+    padding: 0; 
+}
+#Sevostyanov-Sergey .info p
+{
+    font-size: 16px;
+}
+#Sevostyanov-Sergey .flex-container
+{
+    padding: 30px 200px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    border: 3px solid black;
+}
+#Sevostyanov-Sergey .showcase
+{
+    display: flex;
+    width: 20%;
+    height: auto;
+    border: 3px solid black;
+    padding-top: 30px;
+}
+#Sevostyanov-Sergey .content
+{
+    display: flex;
+}
+#Sevostyanov-Sergey #line
+{
+    background-color: black;
+}
+#Sevostyanov-Sergey #hardskills
+{
+    text-align: center;
+}
+#Sevostyanov-Sergey .info2
+{
+    margin: auto;
+}
+#Sevostyanov-Sergey table 
+{
+    border-collapse: separate; 
+    border-spacing: 3em;
+}
 /* <!-- Севостьянов Сергей END --> */
 
 
