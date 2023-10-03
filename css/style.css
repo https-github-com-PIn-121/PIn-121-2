@@ -4,10 +4,72 @@
 
 
 /* <!-- Носков Максим START --> */
+
+#Noskov-Maxim body
+{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background:linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
+}
 #Noskov-Maxim h1
 {
-color: green;
+    text-align: center;
+    color: #333;
+    font-family: cursive;
 }
+#Noskow-Maxim h2
+{
+    font-size: 18px;
+    margin-top: 30px;
+    color:#333
+}
+#Noskow-Maxim p
+{
+    margin-top: 10px;
+    color: #555;
+    font-size: 16px;
+}
+#Noskow-Maxim ul
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #555;
+    font-size: 16px;
+}
+#Noskow-Maxim a
+{
+    color: #007bff;
+    text-decoration: none;
+}
+#Noskow-Maxim footer
+{
+    margin-top: 50px;
+    text-align: center;
+    color: #777;
+}
+#Noskow-Maxim #profile-image
+{
+    object-fit: cover;
+    height: 400px;
+    border-radius: 50px;
+}
+
+#Noskow-Maxim #project-description
+{
+    margin-top: 20px;
+}
+
+#Noskow-Maxim #project-link
+{
+    margin-top: 10px;
+}
+#Noskow-Maxim .img:hover
+{
+    transform: rotate(-3deg);
+    box-shadow: 0 0 40px rgba(236,4, 4, 0.5);
+}
+
+
 /* <!-- Носков Максим END --> */
 
 
