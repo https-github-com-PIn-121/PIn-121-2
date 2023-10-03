@@ -4,281 +4,105 @@
 
 
 /* <!-- Носков Максим START --> */
-
-#Noskov-Maxim body
-{
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background:linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
-}
 #Noskov-Maxim h1
 {
-    text-align: center;
-    color: #333;
-    font-family: cursive;
+color: green;
 }
-#Noskow-Maxim h2
-{
-    font-size: 18px;
-    margin-top: 30px;
-    color:#333
-}
-#Noskow-Maxim p
-{
-    margin-top: 10px;
-    color: #555;
-    font-size: 16px;
-}
-#Noskow-Maxim ul
-{
-    margin-top: 10px;
-    margin-left: 20px;
-    color: #555;
-    font-size: 16px;
-}
-#Noskow-Maxim a
-{
-    color: #007bff;
-    text-decoration: none;
-}
-#Noskow-Maxim footer
-{
-    margin-top: 50px;
-    text-align: center;
-    color: #777;
-}
-#Noskow-Maxim #profile-image
-{
-    object-fit: cover;
-    height: 400px;
-    border-radius: 50px;
-}
-
-#Noskow-Maxim #project-description
-{
-    margin-top: 20px;
-}
-
-#Noskow-Maxim #project-link
-{
-    margin-top: 10px;
-}
-#Noskow-Maxim .img:hover
-{
-    transform: rotate(-3deg);
-    box-shadow: 0 0 40px rgba(236,4, 4, 0.5);
-}
-
-
 /* <!-- Носков Максим END --> */
 
 
-/* <!-- Севостьянов Сергей START --> */ 
-#Sevostyanov-Sergey .header
-{
-    text-align: center;
-    font-size: 21px;
-    background-color: black;
-    padding: 250px 80px;
-    line-height: 30px;
-    color: whitesmoke;
-}
-#Sevostyanov-Sergey h1
-{
-    font-size: 35px;
-}
-#Sevostyanov-Sergey
-{
-    font-family: Comic Sans MS, "Helvetica Neue", Helvetica, sans-serif;
-}
-#Sevostyanov-Sergey .accordion-body{
-    padding: 0px;
-}
-#Sevostyanov-Sergey .links
-{
-    margin-right: 30px;
-    font-size: 16px;
-    display: inline-block;
-}
-#Sevostyanov-Sergey .dline
-{
-    line-height: 40px;
-}
-#Sevostyanov-Sergey h2
-{
-    font-size: 21px;
-}
-#Sevostyanov-Sergey .header_nav a
-{
-    text-decoration: none;
-    padding: 0 10px; 
-    color: whitesmoke;
-}
-#Sevostyanov-Sergey .header_nav li:first-child a
-{
-    padding-left: 0;
-}
-#Sevostyanov-Sergey .header_nav a:hover
-{
-    text-decoration: underline;
-    color: lightgray;
-}
-#Sevostyanov-Sergey nav ul
-{
-    list-style: none; 
-    padding: 0; 
-}
-#Sevostyanov-Sergey .info p
-{
-    font-size: 16px;
-}
-#Sevostyanov-Sergey .flex-container
-{
-    padding: 30px 200px;
-    height: auto;
-    display: flex;
-    flex-wrap: wrap;
-    width: 80%;
-    border: 3px solid black;
-}
-#Sevostyanov-Sergey .showcase
-{
-    display: flex;
-    width: 20%;
-    height: auto;
-    border: 3px solid black;
-    padding-top: 30px;
-}
-#Sevostyanov-Sergey .content
-{
-    display: flex;
-}
-#Sevostyanov-Sergey #line
-{
-    background-color: black;
-}
-#Sevostyanov-Sergey #hardskills
-{
-    text-align: center;
-}
-#Sevostyanov-Sergey .info2
-{
-    margin: auto;
-}
-#Sevostyanov-Sergey table 
-{
-    border-collapse: separate; 
-    border-spacing: 3em;
-}
+/* <!-- Севостьянов Сергей START --> */
+
 /* <!-- Севостьянов Сергей END --> */
 
 
 /* <!-- Софронов Владислав START --> */
-#Sofronov-Vladislav .header
-{
-    background-color: #333;
-    padding: 20px;
-}
-#Sofronov-Vladislav .text 
-{
-    margin: auto;
-    background-color: #7e66d3;
-      width: 80%;
-      padding: 10px 20px;
-      display: flex;
-      flex-direction: column;
-}
-#Sofronov-Vladislav .body {
-    background-color: #edeef6;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-#Sofronov-Vladislav .nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-#Sofronov-Vladislav .nav ul li {
-    display: inline;
-}
-#Sofronov-Vladislav .nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px 20px;
-}
-#Sofronov-Vladislav .nav ul li a:hover {
-    background-color: #555;
-}
-#Sofronov-Vladislav .dropbtn {
-    background-color: #d48620;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-#Sofronov-Vladislav .dropbtn:hover, .dropbtn:focus {
-    background-color: #2980B9;
-}
-#Sofronov-Vladislav .dropdown {
-    position: relative;
-    display: inline-block;
-}
-#Sofronov-Vladislav .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-#Sofronov-Vladislav .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-#Sofronov-Vladislav .dropdown-content a:hover {background-color: #ddd}
-#Sofronov-Vladislav .show {display:block;}
+  
 /* <!-- Софронов Владислав END --> */
 
 
 /* <!-- Шеварёв Денис START --> */
-#Shevarev-Denis .header-ds {
-    background-color: #6e6e6e;
-    padding: 20px;
-    color: #fff;
-    font-size: 2em;
-    text-align: center;
-}
-#Shevarev-Denis .header-ds strong {
-display: inline-block;    
-}
-#Shevarev-Denis .main-ds {
-    overflow: hidden;
-    text-align: center;
-}
-#Shevarev-Denis ul {
-    display: table;
-    margin: auto;
-}
-#Shevarev-Denis .footer-ds {
-    background-color: #6e6e6e;
-    padding: 20px;
-    color: #fff;
-}
-#Shevarev-Denis .footer-ds a {
-    color: #fff;
-}
-#Shevarev-Denis .footer-ds a {
-    color: #fff;
-    text-decoration: none;
-    padding: 0 10px;
-}
+  
 /* <!-- Шеварёв Денис END --> */
 
 
 /* <!-- Лямина Марина START --> */
-  
+#Lyamina-Marina *{
+	box-sizing: border-box;
+}
+#Lyamina-Marina h1, h2, h3{
+	color: black; 
+}
+#Lyamina-Marina .main-section {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: flex-start;
+}
+
+#Lyamina-Marina .container {
+	width: 100%;
+	padding: 50px 60px;
+}
+
+#Lyamina-Marina .main-container{
+	position: relative;
+}
+
+#Lyamina-Marina .main-container__color-line{
+	color: rgb(102, 96, 138);
+	width: 100%;
+    opacity: 1;
+}
+
+#Lyamina-Marina .aside-container{
+	background: linear-gradient(345678deg, black, white, rgb(102, 96, 138));
+	position: relative;
+}
+
+#Lyamina-Marina .aside-container__photo{
+    display: inline-block;
+	border-radius: 50%;
+    overflow: hidden;
+	height: 200px;
+	width: 200px;
+	/*background: url("user-marina.png");*/
+}
+#Lyamina-Marina .aside-container__photo img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#Lyamina-Marina .aside-container__text{
+    padding: 35px 0;
+}
+#Lyamina-Marina .contacts__text a{
+    color: black;
+}
+#Lyamina-Marina .contacts__text a:link{
+    color: black;
+    text-decoration: none;
+}
+
+#Lyamina-Marina .curswork__image{
+    width: 200px;
+    height: 200px;
+}
+#Lyamina-Marina .curswork__color-line{
+    color: rgb(102, 96, 138);
+	width: 100%;
+    opacity: 0.5;
+}
+#Lyamina-Marina .curswork__link a{
+    color: black;
+}
+#Lyamina-Marina .curswork__link a:link{
+    color: black;
+    text-decoration: none;
+}
+#Lyamina-Marina .curswork__link a:hover{
+    color: rgb(102, 96, 138);
+}
 /* <!-- Лямина Марина END --> */
 
 
@@ -293,327 +117,22 @@ display: inline-block;
 
 
 /* <!-- Банденков Владимир START --> */
-#Bandenkov-Vladimir img {
-    width: 75px;
-    height: 75px;
-   }
-
-#Bandenkov-Vladimir #hj
-{
-    color:#ffffff;
-}
-#Bandenkov-Vladimir .xdd{
-    padding: 20px;
-    
-    width: auto;
-    height: auto;
-    background-color: #000;
-}
-#Bandenkov-Vladimir .body{
-width: 100%;
-background-color: rgb(255, 255, 255);
-}
-
-#Bandenkov-Vladimir main{
-    background-color: rgb(255, 255, 255);
-}
-#Bandenkov-Vladimir section{
-    display:flex;
-    flex-direction: column;
-}
-
-#Bandenkov-Vladimir .baton {
-  position:relative;
-  display: flex;
-  justify-content: flex-end;
-}
-#Bandenkov-Vladimir .telega
-{
-    width: 50px;
-    height: 50px;   
-    border: none;
-    background-image:url('../img/icons8-телеграмма-app.gif');
-    background-size: cover;
-    background-color: #000;
-}
-#Bandenkov-Vladimir .pochta{
-    width: 50px;
-    height: 50px;   
-    border: none;
-    background-image:url('../img/icons8-gmail.gif');
-    background-size: cover;
-}
-#Bandenkov-Vladimir .vk{
-    width: 50px;
-    height: 50px;   
-    border: none;
-    background-image:url('../img/icons8-vk.gif');
-    background-size: cover;
-}
+  
 /* <!-- Банденков Владимир END --> */
 
 
 /* <!-- Скотников Егор START --> */
-#Skotnikov-Egor html, body{
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-image: url(z.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    min-width: 700px;
-    min-height: 800px;
-}
-#Skotnikov-Egor .wrapper{
-    min-width: 400px;
-    background-color: black;
-    padding: 20px;
-    background-attachment: fixed; 
-	background-repeat: repeat-x;
-}
-#Skotnikov-Egor .header__logo__top{
-    font-size: 2em;
-    color: #fff;
-    display: flex;
-    justify-content: flex-start
-}
-#Skotnikov-Egor .header__logo__text{
-    display: flex;
-    justify-content: flex-start;
-    font-size: 1em;
-    color: #dedede;
-    display: flex;
-}
-#Skotnikov-Egor .header{
-    padding: 0 17% 0 17%;
-    display: flex;
-}
-#Skotnikov-Egor .header__icons__tg{
-    display: flex;
-    justify-content: flex-end;
-}
-#Skotnikov-Egor .header__icons__email{
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 1%;
-}
-#Skotnikov-Egor .header__icons__gh{
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 1%;
-}
-#Skotnikov-Egor .header__icons{
-    flex: 1;
-    margin-left: 20px;
-    flex: 1;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
-    align-content: flex-end;
-}
-#Skotnikov-Egor .header__logo{
-    flex: 1;
-}
-
-/* .main{
-    padding: 0 20% 0 20%;
-    background-color: #dedede;
-} */
-#Skotnikov-Egor .content{
-    font-weight: 700;
-    padding: 20px 20px 10px 20px;
-    color:black;
-    font-size: 1.5em;
-    display: flex;
-    flex-direction: column;
-    align-content: flex-start;
-    justify-content: flex-start;
-    align-items: flex-start;
-}
-#Skotnikov-Egor .content__info{
-    padding: 0 0  5px 0;
-    color: black;
-    font-size: 0.8em;
-    font-weight: 400;
-}
-#Skotnikov-Egor .maininfo{
-    padding: 0 17% 0 17%;
-    display: flex;
-    flex-direction: column;
-    min-height: 100%;
-}
-#Skotnikov-Egor .maininfo:after{ 
-    background-color: #dedede;
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0%;
-    left: 17%;
-    right: 17%;
-    bottom: 0%;
-    z-index: -1;
-}
-#Skotnikov-Egor .header__logo__tg{
-    flex-wrap: wrap;
-    display: flex;
-}
-#Skotnikov-Egor .otstup{
-    display: block;
-}
-#Skotnikov-Egor .content{
-    font-weight: 700;
-    padding: 20px 20px 10px 20px;
-    color:black;
-    font-size: 1.5em;
-    display: flex;
-    flex-direction: column;
-    align-content: flex-start;
-    justify-content: flex-start;
-    align-items: flex-start;
-}
-
-#Skotnikov-Egor .maininfo:after{ 
-    background-color: #dedede;
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0%;
-    left: 17%;
-    right: 17%;
-    bottom: 0%;
-    z-index: -1;
-}
-#Skotnikov-Egor .maininfo article{
-    flex-basis: 50%;
-    padding: 20px;
-    box-sizing: border-box;
-    }
-#Skotnikov-Egor .maininfo article:nth-child(2n){
-    flex-basis: 50%;
-    padding: 20px;
-    box-sizing: border-box;
-    }
-#Skotnikov-Egor .maininfo article:nth-child(2n + 1){
-    flex-basis: 50%;
-    padding: 20px;
-    box-sizing: border-box;
-    }
-#Skotnikov-Egor .maininfo{
-        padding: 0 17% 0 17%;
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-    }
-#Skotnikov-Egor .maininfo:after{ 
-        background-color: #dedede;
-        content: '';
-        display: flex;
-        top: 0%;
-        left: 17%;
-        right: 17%;
-        bottom: 0%;
-        z-index: -1;
-    }
-#Skotnikov-Egor .otstp{
-    padding: 0 0 5px  0 ;
-}
-#Skotnikov-Egor .ul{
-    padding: 0 0 0 0;
-}
-#Skotnikov-Egor .oglav{
-    padding: 3px 0 0 0;
-}
-#Skotnikov-Egor .page{
-    min-width: 900px;
-}
+  
 /* <!-- Скотников Егор END --> */
 
 
 /* <!-- Карасев Эдуард START --> */
-#Karasev-Eduard .header {
-    background-color: #333;
-    padding: 20px;
-  }
-
-  #Karasev-Eduard .text {
-  margin: auto;
-  background-color: #93acb8;
-    width: 80%;
-    padding: 10px 20px;
-    display: flex;
-    flex-direction: column;
-}
-
-  #Karasev-Eduard nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
   
-  #Karasev-Eduard nav ul li {
-    display: inline;
-  }
-  
-  #Karasev-Eduard nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px 20px;
-  }
-  
- #Karasev-Eduard nav ul li a:hover {
-    background-color: #555;
-  }
 /* <!-- Карасев Эдуард END --> */
 
 
 /* <!-- Линючев Никита START --> */
- #Linyuchev-Nikita header {
-    background-color: #01f30d;
-    padding: 20px;
-  }
   
-#Linyuchev-Nikita body {
-    overflow: hidden;
-  }
-  
-  #Linyuchev-Nikita .logo {
-    font-size: 4em;
-    color: #fff;
-  }
-  
-  #Linyuchev-Nikita footer {
-    background-color: #01f30d;
-    padding: 20px;
-    color: #fff;
-  }
-  
-  #Linyuchev-Nikita canvas {
-    border: 1px solid rgb(2, 2, 2);
-    background: rgb(190, 189, 189);
-  }
-  
-  #Linyuchev-Nikita .container {
-    display: flex;
-  }
-  
-  #Linyuchev-Nikita .block {
-    flex: 1;
-    border: 1px solid black;
-    padding: 10px;
-  }
-  #Linyuchev-Nikita #block1 {
-    padding-left: 20px;
-  }
-  #Linyuchev-Nikita #block2 {
-    padding-left: 150px;
-  }
 /* <!-- Линючев Никита END --> */
 
 
