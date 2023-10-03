@@ -32,11 +32,11 @@ color: green;
 #Shevarev-Denis .header-ds strong {
 display: inline-block;    
 }
-#Shevarev-Denis .accordion-main {
+#Shevarev-Denis .main-ds {
     overflow: hidden;
     text-align: center;
 }
-#Shevarev-Denis .ul {
+#Shevarev-Denis ul {
     display: table;
     margin: auto;
 }
