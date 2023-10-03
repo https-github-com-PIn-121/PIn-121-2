@@ -570,14 +570,12 @@ display: inline-block;
 
 
 /* <!-- Линючев Никита START --> */
- #Linyuchev-Nikita header {
-    background-color: #01f30d;
-    padding: 20px;
-  }
    
   #Linyuchev-Nikita .logo {
     font-size: 4em;
     color: #fff;
+    background-color: #01f30d;
+    padding: 20px;
   }
   
   #Linyuchev-Nikita footer {
