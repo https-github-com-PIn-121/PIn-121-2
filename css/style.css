@@ -22,7 +22,37 @@ color: green;
 
 
 /* <!-- Шеварёв Денис START --> */
-  
+Shevarev-Denis .header-ds {
+    background-color: #6e6e6e;
+    padding: 20px;
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+}
+Shevarev-Denis .header-ds strong {
+display: inline-block;    
+}
+Shevarev-Denis .accordion-body {
+    overflow: hidden;
+    text-align: center;
+}
+Shevarev-Denis .ul {
+    display: table;
+    margin: auto;
+}
+Shevarev-Denis .footer-ds {
+    background-color: #6e6e6e;
+    padding: 20px;
+    color: #fff;
+}
+Shevarev-Denis .footer-ds a {
+    color: #fff;
+}
+Shevarev-Denis .footer-ds a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
 /* <!-- Шеварёв Денис END --> */
 
 
