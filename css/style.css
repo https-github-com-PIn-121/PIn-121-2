@@ -647,11 +647,13 @@ background-color: rgb(255, 255, 255);
 
 
 /* <!-- Линючев Никита START --> */
-#Linyuchev-Nikita .header__logo__top{
-        font-size: 2em;
-        color: #fff;
-        display: flex;
-        justify-content: flex-start
+    #Linyuchev-Nikita .header__logo__top{ 
+    background-color: #01f30d;
+    font-size: 2em;
+    color: #ffffff; 
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start
     }
   
   #Linyuchev-Nikita footer {
