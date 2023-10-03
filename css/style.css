@@ -174,7 +174,71 @@
 
 
 /* <!-- Софронов Владислав START --> */
-  
+#Sofronov-Vladislav .header
+{
+    background-color: #333;
+    padding: 20px;
+}
+#Sofronov-Vladislav .text 
+{
+    margin: auto;
+    background-color: #7e66d3;
+      width: 80%;
+      padding: 10px 20px;
+      display: flex;
+      flex-direction: column;
+}
+#Sofronov-Vladislav .body {
+    background-color: #edeef6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Sofronov-Vladislav .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#Sofronov-Vladislav .nav ul li {
+    display: inline;
+}
+#Sofronov-Vladislav .nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+#Sofronov-Vladislav .nav ul li a:hover {
+    background-color: #555;
+}
+#Sofronov-Vladislav .dropbtn {
+    background-color: #d48620;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+#Sofronov-Vladislav .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+#Sofronov-Vladislav .dropdown {
+    position: relative;
+    display: inline-block;
+}
+#Sofronov-Vladislav .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+#Sofronov-Vladislav .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+#Sofronov-Vladislav .dropdown-content a:hover {background-color: #ddd}
+#Sofronov-Vladislav .show {display:block;}
 /* <!-- Софронов Владислав END --> */
 
 
