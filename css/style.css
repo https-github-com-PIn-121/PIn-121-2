@@ -537,9 +537,7 @@ background-color: rgb(255, 255, 255);
 
 
 /* <!-- Карасев Эдуард START --> */
-#Karasev-Eduard .html,body { height:100%; }
-
-#Karasev-Eduard .header-karasev {
+#Karasev-Eduard .header {
     background-color: #333;
     padding: 20px;
   }
@@ -553,75 +551,25 @@ background-color: rgb(255, 255, 255);
     flex-direction: column;
 }
 
-#Karasev-Eduard .body {
-    background-color: #edeef6;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-
-  #Karasev-Eduard .nav ul {
+  #Karasev-Eduard nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
   
-  #Karasev-Eduard .nav ul li {
+  #Karasev-Eduard nav ul li {
     display: inline;
   }
   
-  #Karasev-Eduard .nav ul li a {
+  #Karasev-Eduard nav ul li a {
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
   }
   
-  #Karasev-Eduard .nav ul li a:hover {
+ #Karasev-Eduard nav ul li a:hover {
     background-color: #555;
   }
-  
-  /* Кнопка выпадающего списка */
-  #Karasev-Eduard .dropbtn-karasev {
-  background-color: #3498DB;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
-/* Кнопка выпадающего меню при наведении и фокусировке */
-#Karasev-Eduard .dropbtn-karasev:hover, .dropbtn-karasev:focus {
-  background-color: #2980B9;
-}
-
-/* Контейнер <div> - необходим для размещения выпадающего содержимого */
-#Karasev-Eduard .dropdown-karasev {
-  position: relative;
-  display: inline-block;
-}
-
-/* Выпадающее содержимое (скрыто по умолчанию) */
-#Karasev-Eduard .dropdown-content-karasev {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Ссылки внутри выпадающего списка */
-#Karasev-Eduard .dropdown-content-karasev a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-/* Изменение цвета выпадающих ссылок при наведении курсора */
-#Karasev-Eduard .dropdown-content-karasev a:hover {background-color: #ddd}
-
-/* Показать выпадающее меню (используйте JS, чтобы добавить этот класс .dropdown-content содержимого, когда пользователь нажимает на кнопку выпадающего списка) */
-#Karasev-Eduard .show {display:block;}
 /* <!-- Карасев Эдуард END --> */
 
 
