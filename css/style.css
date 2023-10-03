@@ -570,7 +570,46 @@ display: inline-block;
 
 
 /* <!-- Линючев Никита START --> */
+ #Linyuchev-Nikita header {
+    background-color: #01f30d;
+    padding: 20px;
+  }
   
+#Linyuchev-Nikita body {
+    overflow: hidden;
+  }
+  
+  #Linyuchev-Nikita .logo {
+    font-size: 4em;
+    color: #fff;
+  }
+  
+  #Linyuchev-Nikita footer {
+    background-color: #01f30d;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  #Linyuchev-Nikita canvas {
+    border: 1px solid rgb(2, 2, 2);
+    background: rgb(190, 189, 189);
+  }
+  
+  #Linyuchev-Nikita .container {
+    display: flex;
+  }
+  
+  #Linyuchev-Nikita .block {
+    flex: 1;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  #Linyuchev-Nikita #block1 {
+    padding-left: 20px;
+  }
+  #Linyuchev-Nikita #block2 {
+    padding-left: 150px;
+  }
 /* <!-- Линючев Никита END --> */
 
 
