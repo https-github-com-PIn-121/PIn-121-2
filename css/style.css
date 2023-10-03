@@ -1,13 +1,34 @@
 /* <!-- Мочалин Николай START --> */
-
+@font-face {
+    font-family: "Cort";
+    src: url("../font/CartographCF-ExtraBoldItalic.ttf");
+    font-weight: regular;
+    font-style: normal;
+}
+#Mochalin-Nikolay .navbar-brand img {
+    top: 20px;
+    height: 60px;
+}
+  
+#Mochalin-Nikolay .accordion-button {
+    font-family: "Cort";
+}
 /* <!-- Мочалин Николай END --> */
 
 
 /* <!-- Носков Максим START --> */
 
+#Noskov-Maxim p
+{
+    font-family: "Cort";
+}
+#Noskov-Maxim li
+{
+    font-family: "Cort";
+}
 #Noskov-Maxim body
 {
-    font-family: Arial, sans-serif;
+    font-family: "Cort";
     margin: 20px;
     background:linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
 }
@@ -15,22 +36,26 @@
 {
     text-align: center;
     color: #333;
-    font-family: cursive;
+    font-family: "Cort";
 }
 #Noskow-Maxim h2
 {
+    
     font-size: 18px;
     margin-top: 30px;
-    color:#333
+    color:#333;
+    font-family: "Cort";
 }
 #Noskow-Maxim p
 {
+    font-family: "Cort";
     margin-top: 10px;
     color: #555;
     font-size: 16px;
 }
 #Noskow-Maxim ul
 {
+    font-family: "Cort";
     margin-top: 10px;
     margin-left: 20px;
     color: #555;
@@ -38,11 +63,13 @@
 }
 #Noskow-Maxim a
 {
+    font-family: "Cort";
     color: #007bff;
     text-decoration: none;
 }
 #Noskow-Maxim footer
 {
+    font-family: "Cort";
     margin-top: 50px;
     text-align: center;
     color: #777;
