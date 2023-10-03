@@ -453,7 +453,7 @@ background-color: rgb(255, 255, 255);
 }
 #Skotnikov-Egor .header__logo__top{
     font-size: 2em;
-    color: #fff;
+    color: #fff; 
     display: flex;
     justify-content: flex-start
 }
@@ -647,19 +647,12 @@ background-color: rgb(255, 255, 255);
 
 
 /* <!-- Линючев Никита START --> */
- #Linyuchev-Nikita header {
-    background-color: #01f30d;
-    padding: 20px;
-  }
-  
-#Linyuchev-Nikita body {
-    overflow: hidden;
-  }
-  
-  #Linyuchev-Nikita .logo {
-    font-size: 4em;
-    color: #fff;
-  }
+#Linyuchev-Nikita .header__logo__top{
+        font-size: 2em;
+        color: #fff;
+        display: flex;
+        justify-content: flex-start
+    }
   
   #Linyuchev-Nikita footer {
     background-color: #01f30d;
