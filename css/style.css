@@ -237,7 +237,7 @@ color: green;
     padding: 20px;
   }
 
-  #Karasev-Eduard .text {
+  #Karasev-Eduard .text-karasev {
   margin: auto;
   background-color: #93acb8;
     width: 80%;
@@ -246,7 +246,7 @@ color: green;
     flex-direction: column;
 }
 
-#Karasev-Eduard .body {
+#Karasev-Eduard .body-karasev {
     background-color: #edeef6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
