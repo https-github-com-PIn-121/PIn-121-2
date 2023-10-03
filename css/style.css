@@ -308,7 +308,7 @@ display: inline-block;
 #Lyamina-Marina *{
 	box-sizing: border-box;
 }
-#Lyamina-Marina h1, h2, h3{
+#Lyamina-Marina h1,#Lyamina-Marina h2,#Lyamina-Marina h3{
 	color: black; 
 }
 #Lyamina-Marina .main-section {
