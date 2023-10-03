@@ -263,7 +263,63 @@
 
 
 /* <!-- Банденков Владимир START --> */
-  
+#Bandenkov-Vladimir img {
+    width: 75px;
+    height: 75px;
+   }
+
+#Bandenkov-Vladimir #hj
+{
+    color:#ffffff;
+}
+#Bandenkov-Vladimir .xdd{
+    padding: 20px;
+    
+    width: auto;
+    height: auto;
+    background-color: #000;
+}
+#Bandenkov-Vladimir .body{
+width: 100%;
+background-color: rgb(255, 255, 255);
+}
+
+#Bandenkov-Vladimir main{
+    background-color: rgb(255, 255, 255);
+}
+#Bandenkov-Vladimir section{
+    display:flex;
+    flex-direction: column;
+}
+
+#Bandenkov-Vladimir .baton {
+  position:relative;
+  display: flex;
+  justify-content: flex-end;
+}
+#Bandenkov-Vladimir .telega
+{
+    width: 50px;
+    height: 50px;   
+    border: none;
+    background-image:url('../img/icons8-телеграмма-app.gif');
+    background-size: cover;
+    background-color: #000;
+}
+#Bandenkov-Vladimir .pochta{
+    width: 50px;
+    height: 50px;   
+    border: none;
+    background-image:url('../img/icons8-gmail.gif');
+    background-size: cover;
+}
+#Bandenkov-Vladimir .vk{
+    width: 50px;
+    height: 50px;   
+    border: none;
+    background-image:url('../img/icons8-vk.gif');
+    background-size: cover;
+}
 /* <!-- Банденков Владимир END --> */
 
 
